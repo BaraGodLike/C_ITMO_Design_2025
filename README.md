@@ -7,6 +7,8 @@
  - [Вторая лабораторная](https://github.com/BaraGodLike/C_ITMO_Design_2025/blob/main/second_lab.md "Вторая лаба") — нацелена на работу со структурами, динамической памятью, модульной архитектурой, линковкой и обработкой пользовательского ввода.
 
  - [Третья лабораторная](https://github.com/BaraGodLike/C_ITMO_Design_2025/blob/main/third_lab.md "Третья лаба") — нацелена на работу с бинарными файлами, их записью и чтением.
+ 
+ - [Четвертая лабораторная](https://github.com/BaraGodLike/C_ITMO_Design_2025/blob/main/fourth_lab.md "Четвертая лаба") — нацелена на работу с хешированием и разграничением прав пользователей.
 
 ---
 ### [Таблица с баллами](https://docs.google.com/spreadsheets/d/1Q08p_m_e7acdp23ce9treS7xCv_wD9tysXgtEBr0_hg/edit?usp=sharing "тобличка")
