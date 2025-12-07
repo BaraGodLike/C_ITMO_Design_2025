@@ -10,5 +10,7 @@
  
  - [Четвертая лабораторная](https://github.com/BaraGodLike/C_ITMO_Design_2025/blob/main/fourth_lab.md "Четвертая лаба") — нацелена на работу с хешированием и разграничением прав пользователей.
 
+ - [Пятая лабораторная](https://github.com/BaraGodLike/C_ITMO_Design_2025/blob/main/fifth_lab.md "Пятая лаба") — нацелена на работу с многопотоком на примере обработки изображения PPM.
+
 ---
 ### [Таблица с баллами](https://docs.google.com/spreadsheets/d/1Q08p_m_e7acdp23ce9treS7xCv_wD9tysXgtEBr0_hg/edit?usp=sharing "тобличка")
